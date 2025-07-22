@@ -1,0 +1,1 @@
+total_score = marks1 + marks2 - 5;

@@ -1,0 +1,14 @@
+if -> IF
+( -> LP
+x -> ID
+> -> GT
+10.5 -> FLOAT_NUM
+) -> RP
+{ -> LB
+y -> ID
+= -> ASSIGN
+y -> ID
++ -> ADD
+1 -> NUMBER
+; -> SEMI
+} -> RB

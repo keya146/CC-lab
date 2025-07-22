@@ -1,0 +1,14 @@
+while -> WHILE
+( -> LP
+count -> ID
+<= -> LE
+100 -> NUMBER
+) -> RP
+{ -> LB
+total -> ID
+= -> ASSIGN
+total -> ID
++ -> ADD
+5.5 -> FLOAT_NUM
+; -> SEMI
+} -> RB
